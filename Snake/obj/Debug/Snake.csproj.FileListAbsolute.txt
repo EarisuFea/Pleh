@@ -4,3 +4,4 @@ C:\Users\Develop\Pleh\Snake\bin\Debug\Snake.pdb
 C:\Users\Develop\Pleh\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
 C:\Users\Develop\Pleh\Snake\obj\Debug\Snake.exe
 C:\Users\Develop\Pleh\Snake\obj\Debug\Snake.pdb
+C:\Users\Develop\Pleh\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
